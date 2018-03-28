@@ -1,3 +1,7 @@
+.wrapper{
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
 .wrapper > div{
   background:#eee;
   padding: 1em;
@@ -5,9 +9,4 @@
 
 .wrapper > div:nth-child(odd){
   background:#ddd;
-}
-
-.wrapper{
-  display: grid;
-  grid-template-columns: 30% 70%;
 }
