@@ -1,6 +1,13 @@
-html {
-  background-color: #729f98;
+.wrapper > div{
+  background:#eee;
+  padding: 1em;
 }
-h1 {
-  color: red;
+
+.wrapper > div:nth-child(odd){
+  background:#ddd;
+}
+
+.wrapper{
+  display: grid;
+  grid-template-columns: 30% 70%;
 }
