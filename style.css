@@ -1,2 +1,7 @@
-body {background-color: #dcdcdc;}
-h1 {color: 2E73D8;}
+body {
+  background-color: #dcdcdc;
+}
+h1 {
+  color: 2E73D8;
+  font-family: 'Acme', sans-serif;
+}
