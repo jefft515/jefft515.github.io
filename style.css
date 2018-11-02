@@ -2,6 +2,10 @@ body {
   background-color: #dcdcdc;
 }
 h1 {
-  color: 2E73D8;
+  color: #2E73D8;
   font-family: 'Acme', sans-serif;
+}
+h2 {
+  background-color: rgba(198, 109, 25, 0.7);
+  color: #ffffff;
 }
