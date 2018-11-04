@@ -1,9 +1,9 @@
 body {
-  background-color: blue;
+  background-color: #bfd7fc;
   font-family: 'Acme', sans-serif;
 }
 
-@media only screen and (max-width: 300px){
+@media only screen and (max-width: 800px){
   body{
     width: 50%;
     margin: auto;
