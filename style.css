@@ -3,7 +3,7 @@ body {
   font-family: 'Acme', sans-serif;
 }
 
-@media only screen and (min-width: 1200px){
+@media screen and (min-width: 1200px){
   body{
     width: 600px;
     margin: auto;
