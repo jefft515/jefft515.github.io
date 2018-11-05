@@ -1,12 +1,13 @@
 body {
   background-color: #dcdcdc;
   font-family: 'Acme', sans-serif;
+  width: 60%;
+  margin: auto;
 }
 
-@media only screen and (min-width: 600px){
+@media only screen and (max-width: 800px){
   body{
-    width: 600px;
-    margin: auto;
+    width: 100%;
   }
 }
 
