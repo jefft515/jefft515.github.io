@@ -1,13 +1,21 @@
 body {
-  background-color: #dcdcdc;
+  background-color: #bfd7fc;
   font-family: 'Acme', sans-serif;
   width: 60%;
   margin: auto;
 }
 
+<<<<<<< HEAD
 @media only screen and (max-width: 800px){
   body{
     width: 100%;
+=======
+@media only screen and (min-width: 800px){
+  body{
+    width: 50%;
+    margin: auto;
+    background-color: #FFFFFF;
+>>>>>>> 841150384ff96459cee965a54d99fe0d813afe19
   }
 }
 
